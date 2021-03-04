@@ -1,0 +1,76 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background: lightgrey;
+    width: 100%;
+}
+.navoption{
+    display:inline-block;
+    width: 10%;
+    background-color: darkgray;
+    padding: 2%;
+    text-align: center;
+}
+.aside{
+    height: 1000px;
+    float: left;
+    width: 29%;
+    background-color: blue;
+}
+.rightside{
+    height:1000px;
+    float: right;
+    width:70%;
+    background-color: aquamarine;
+}
+.top{
+    text-align: center;
+    padding: 10%;
+    background-color: azure;
+    font-size: 1em;
+}
+.profile{
+    width: 50%;
+    height:50%;
+}
+.bottom{
+    padding:10%;
+    background-color: bisque;
+    height: 100%;
+    font-size: 1.2em;
+}
+.header{
+    padding-bottom: 10%;
+    font-weight: bold;
+}
+.category{
+    padding-bottom: 10%;
+}
+.info1{
+    padding:3%;
+}
+.coolpic{
+    width: 30%;
+    padding: 2%;
+    float: left;
+}
+.header2{
+    margin-left: 5%;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.coolpic2{
+    width: 30%;
+}
+.header3{
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+}
+.info2{
+    padding: 3%;
+}
